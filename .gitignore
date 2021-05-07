@@ -1,0 +1,10 @@
+*.box
+*.iso
+**/artifacts
+**/packer_cache
+**/iso
+.DS_Store
+*.pwd
+*.pwi
+*.hwm
+sshkeys/
