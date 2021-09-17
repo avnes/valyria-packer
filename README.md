@@ -26,10 +26,10 @@ sudo firewall-cmd --reload
 
 ### Install Packer
 
-Go to <https://www.packer.io/downloads> and follow the instructions for your platform.
-
-Please note that on Fedora there is already installed a packer command by cracklib,
-so you will need to run /usr/bin/packer to use HashiCorp Packer.
+```bash
+sudo dnf config-manager --add-repo https://rpm.releases.hashicorp.com/fedora/hashicorp.repo
+sudo dnf install -y packer
+```
 
 ## Build template
 
