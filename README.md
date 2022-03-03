@@ -1,4 +1,4 @@
-# :warning: This repository has been archived, and is not maintained :warning:
+# :warning: This repository has been archived, and is no longer maintained :warning:
 
 # valyria-packer
 
