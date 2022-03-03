@@ -1,3 +1,5 @@
+# :warning: This repository has been archived, and is not maintained :warning:
+
 # valyria-packer
 
 Used to create kvm/qemu/libvirt templates that can be automated with Vagrant. These will eventually be used to automate the infrastructure for my playground Kubernetes cluster at home running <https://k0sproject.io/>
